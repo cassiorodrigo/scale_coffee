@@ -1,0 +1,6 @@
+BAR = "bar"
+WEIGHT = "weight"
+PERCENTAGE = "percentage"
+POSSIBLE_STATES = [BAR, WEIGHT, PERCENTAGE]
+HIGH = 1
+LOW = 0
